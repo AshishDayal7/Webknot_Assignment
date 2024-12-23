@@ -7,13 +7,8 @@
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/AshishDayal7/Webknot.git
-   cd my-django-app
-   ```
-
-2. **Create a virtual environment:**
-   ```
-   python -m venv venv
+   git clone https://github.com/AshishDayal7/Webknot_Assignement.git
+   
    ```
 
 3. **Activate the virtual environment:**
